@@ -1,0 +1,58 @@
+[info]
+name = "Gruvbox Material Dark"
+author = "Gruvbox Community"
+
+[scheme]
+
+[scheme.bg]
+bg_0 = "#282828"
+bg_1 = "#32302f"
+bg_2 = "#32302f"
+bg_3 = "#45403d"
+bg_4 = "#45403d"
+bg_5 = "#5a524c"
+bg_dim = "#1b1b1b"
+
+[scheme.grey]
+grey_0 = "#7c6f64"
+grey_1 = "#928374"
+grey_2 = "#a89984"
+
+[scheme.statusline]
+statusline_1 = "#32302f"
+statusline_2 = "#3a3735"
+statusline_3 = "#504945"
+
+[scheme.bgdiff]
+diff_red = "#402120"
+diff_green = "#34381b"
+diff_blue = "#0e363e"
+diff_yellow = "none"
+diff_orange = "none"
+diff_purple = "none"
+diff_aqua = "none"
+
+[scheme.bgcolor]
+bg_red = "#ea6962"
+bg_green = "#a9b665"
+bg_blue = "#7daea3"
+bg_yellow = "#d8a657"
+bg_orange = "#e78a4e"
+bg_purple = "#d3869b"
+bg_aqua = "#89b482"
+
+[scheme.color]
+red = "#ea6962"
+green = "#a9b665"
+blue = "#7daea3"
+yellow = "#d8a657"
+orange = "#e78a4e"
+purple = "#d3869b"
+aqua = "#89b482"
+
+[scheme.cursor]
+cursor = "#3c3836"
+
+[scheme.fg]
+fg_0 = "#d4be98"
+fg_1 = "#ddc7a1"
